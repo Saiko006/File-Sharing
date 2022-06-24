@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/dwiiaksa/File-Sharing",
+  "repository": "https://github.com/Saiko006/File_Sharing",
   "logo": "https://telegra.ph/file/c9458fe65e5aa9714b191.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -55,26 +55,6 @@
     },
     "FORCE_SUB_CHANNEL4": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-100"
-    },
-    "FORCE_SUB_CHANNEL5": {
-      "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-100"
-    },
-    "FORCE_SUB_CHANNEL6": {
-      "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-100"
-    },
-    "FORCE_SUB_CHANNEL7": {
-      "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-100"
-    },
-    "FORCE_SUB_CHANNEL8": {
-      "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-100"
-    },
-    "FORCE_SUB_GROUP": {
-      "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
       "value": "-100"
     },
     "START_MESSAGE": {
